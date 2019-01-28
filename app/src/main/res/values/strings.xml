@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationForm</string>
+    <array name="Gender">
+        <item>------Select------</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </array>
+</resources>
